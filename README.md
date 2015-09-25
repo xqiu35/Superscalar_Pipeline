@@ -5,5 +5,5 @@ This superscalar pipeline implementation code belongs to Xiaofei Qiu, computer e
 
 The pipeline & branch predictor code is in src file.
 
-Traces and sim code are provided by Georgia Tech Advance Computer Architecture Class in fall 2015. 
+Traces file and sim code are provided by Georgia Tech Advance Computer Architecture Class in fall 2015. 
 
