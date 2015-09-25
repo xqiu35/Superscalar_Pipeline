@@ -3,6 +3,7 @@
  * Author       : Soham J. Desai 
  * Date         : 14th January 2014
  * Description  : Superscalar Pipeline for Lab2 ECE 6100
+ * /*        Xiaofei's Implementation starts from line 137                */
  **********************************************************************/
 
 #include "pipeline.h"
